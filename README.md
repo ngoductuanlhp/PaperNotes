@@ -1,5 +1,5 @@
 # Paper notes
-Notes for papers (ML, DL, CV). Inspired by [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning).
+Notes for papers (ML, DL, CV). Inspired by [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning), [Dang Minh Nguyen](https://github.com/dangne/paper-notes).
 
 ## Topics
 
