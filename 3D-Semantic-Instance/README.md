@@ -22,6 +22,8 @@
 
 ### Proposal-based
 
+- [**Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds**](https://arxiv.org/pdf/1906.01140.pdf) (NeurIPS 2019 spotlight). ([Note](3D-BoNet.md))
+
 ### Proposal-free
 
 - [**SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SGPN_Similarity_Group_CVPR_2018_paper.pdf) (CVPR 2018). ([Note](SGPN.md))
