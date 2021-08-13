@@ -44,6 +44,9 @@ Propose a hierarchical aggregation to cluster pointcloud into instances
 
 - SOTA on both ScanNet(v2) and S3DIS.
 
+- Time:
+![](images/hais_time.png?raw=true)
+
 ### Notes
 
 - Fast, efficient.
