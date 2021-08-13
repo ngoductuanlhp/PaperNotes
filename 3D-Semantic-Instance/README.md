@@ -26,6 +26,16 @@
 
 ### Proposal-free
 
+#### Grouping
+
 - [**Hierarchical Aggregation for 3D Instance Segmentation**](https://arxiv.org/pdf/2108.02350v1.pdf) (ICCV 2021 - SOTA). ([Note](HAIS.md))
 
+- [**PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_PointGroup_Dual-Set_Point_Grouping_for_3D_Instance_Segmentation_CVPR_2020_paper.pdf) (CVPR 2020). ([Note](PointGroup.md))
+
+#### CRF
+
+- [**JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
+Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**](https://arxiv.org/pdf/1904.00699.pdf) (CVPR 2019). ([Note](JSIS3D.md))
+
+#### Similarity Matrix
 - [**SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SGPN_Similarity_Group_CVPR_2018_paper.pdf) (CVPR 2018). ([Note](SGPN.md))
