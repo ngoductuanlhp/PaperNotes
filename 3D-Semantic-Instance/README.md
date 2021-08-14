@@ -20,6 +20,8 @@
 
 ## Approaches
 
+![](images/timeline.png?raw=true)
+
 ### Proposal-based
 
 - [**Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds**](https://arxiv.org/pdf/1906.01140.pdf) (NeurIPS 2019 spotlight). ([Note](3D-BoNet.md))
