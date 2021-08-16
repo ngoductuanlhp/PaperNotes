@@ -28,7 +28,7 @@ occupied by each instance)
     * Covariance Term
 
 - Instance Clustering:
-    * use efficient graph-based segmentation scheme to group voxel to super-voxel.
+    * use [**efficient graph-based segmentation**](http://cs.brown.edu/people/pfelzens/papers/seg-ijcv.pdf) scheme to group voxel to super-voxel.
     * construct a weighted undirect graph with verteces is super-voxels, weight between two vertices measures how similar these super-voxels are.
     * loop: choose the largest edge (most similar), if weight > threshold: merge vertices then recalculate new weights.
     ![](images/occuseg_weightgraph.png?raw=true)
