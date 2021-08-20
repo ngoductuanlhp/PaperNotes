@@ -31,7 +31,7 @@
 #### Learning Dynamic Kernel
 
 - [**DyCo3D: Robust Instance Segmentation of 3D Point Clouds
-through Dynamic Convolution**](https://openaccess.thecvf.com/content/CVPR2021/papers/He_DyCo3D_Robust_Instance_Segmentation_of_3D_Point_Clouds_Through_Dynamic_CVPR_2021_paper.pdf) (CVPR 2021).
+through Dynamic Convolution**](https://openaccess.thecvf.com/content/CVPR2021/papers/He_DyCo3D_Robust_Instance_Segmentation_of_3D_Point_Clouds_Through_Dynamic_CVPR_2021_paper.pdf) (CVPR 2021). ([Note](DyCo3D.md))
 
 #### Grouping by centroid offset
 

@@ -8,8 +8,11 @@ Notes for papers (ML, DL, CV). Inspired by [Patrick Liu](https://github.com/patr
 
 ### 2D Tasks
 - [2D Object Detection](2D-Detection)
-- [2D Instance Segmentation](2D-Instance)
+- [2D Segmentation](2D-Segmentation)
 
 ### 3D Tasks
 - [Monocular 3D Object Detection](Mono3DOD)
 - [3D Semantic Instance Segmentation](3D-Semantic-Instance)
+
+### Transformer in Vision tasks.
+- [Vision Transformer](Vision-Transformer)
