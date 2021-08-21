@@ -9,7 +9,7 @@
 
 - [**Efficient DETR: Improving End-to-End Object Detector with Dense Prior**](https://arxiv.org/pdf/2104.01318.pdf) 
 
-- [**DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION**](https://arxiv.org/pdf/2010.04159.pdf) (ICLR 2021). ([Note](DeformableDETR.md))
+- [**Deformable Detr: Deformable Transformers For End-to-end Object Detection**](https://arxiv.org/pdf/2010.04159.pdf) (ICLR 2021). ([Note](DeformableDETR.md))
 
 - [**End-to-End Object Detection with Transformers**](https://arxiv.org/pdf/2005.12872.pdf). ([Note](DETR.md))
 

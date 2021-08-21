@@ -1,6 +1,5 @@
 # 2D Instance Segmentation
 
-
 ## Survey:
 
 <!-- - [**Deep Learning for 3D Point Clouds: A Survey**](https://arxiv.org/pdf/1912.12033.pdf) (TPAMI 2020). -->
