@@ -7,16 +7,18 @@
 
 ## 2D Object Detection
 
-- [**DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION**](https://arxiv.org/pdf/2010.04159.pdf) (ICLR 2021).
+- [**Efficient DETR: Improving End-to-End Object Detector with Dense Prior**](https://arxiv.org/pdf/2104.01318.pdf) 
 
-- [**End-to-End Object Detection with Transformers**](https://arxiv.org/pdf/2005.12872.pdf).
+- [**DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION**](https://arxiv.org/pdf/2010.04159.pdf) (ICLR 2021). ([Note](DeformableDETR.md))
+
+- [**End-to-End Object Detection with Transformers**](https://arxiv.org/pdf/2005.12872.pdf). ([Note](DETR.md))
 
 
 ## 2D Instance Segmentation
 
-- [**SOLQ: Segmenting Objects by Learning Queries**](https://arxiv.org/pdf/2106.02351.pdf).
+- [**SOLQ: Segmenting Objects by Learning Queries**](https://arxiv.org/pdf/2106.02351.pdf). ([Note](SOLQ.md))
 
-- [**SOTR: Segmenting Objects with Transformers**](https://arxiv.org/pdf/2108.06747.pdf) (ICCV 2021).
+- [**SOTR: Segmenting Objects with Transformers**](https://arxiv.org/pdf/2108.06747.pdf) (ICCV 2021). ([Note](SOTR.md))
 
 ## 3D Semantic Segmentation
 

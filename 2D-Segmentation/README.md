@@ -25,8 +25,8 @@ Segmentation**](https://arxiv.org/pdf/2003.05664.pdf) (ECCV 2020).
 
 ### Few-shot 
 
-- [**Feature Weighting and Boosting for Few-Shot Segmentation**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) (CVPR 2019).
+- [**Feature Weighting and Boosting for Few-Shot Segmentation**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) (CVPR 2019). ([Note](Feature_weighting_boosting.md))
 
-- [**SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation**](https://arxiv.org/pdf/1810.09091.pdf) (IEEE Transaction on Cybernetics).
+- [**SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation**](https://arxiv.org/pdf/1810.09091.pdf) (IEEE Transaction on Cybernetics). ([Note](SimilarityGuidance_Oneshot.md))
 
 
