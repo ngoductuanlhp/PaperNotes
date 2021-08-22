@@ -9,12 +9,12 @@
 
 ### Learning Dynamic Kernel
 
-- [**SOLO: Segmenting Objects by Locations**](https://arxiv.org/pdf/1912.04488.pdf) (ICCV 2020).
+- [**Conditional Convolutions for Instance
+Segmentation**](https://arxiv.org/pdf/2003.05664.pdf) (ECCV 2020).
 
 - [**SOLOv2: Dynamic and Fast Instance Segmentation**](https://arxiv.org/pdf/2003.10152.pdf) (NeurIPS 2020).
 
-- [**Conditional Convolutions for Instance
-Segmentation**](https://arxiv.org/pdf/2003.05664.pdf) (ECCV 2020).
+- [**SOLO: Segmenting Objects by Locations**](https://arxiv.org/pdf/1912.04488.pdf) (ICCV 2020).
 
 ### Use similarity matrix to group 
 
