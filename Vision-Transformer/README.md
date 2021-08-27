@@ -7,6 +7,10 @@
 
 ## 2D Object Detection
 
+- [**Fast Convergence of DETR with Spatially Modulated Co-Attention**](https://arxiv.org/pdf/2101.07448.pdf) (ICCV 2021). ([Note](SpacialModulateDETR.md))
+
+- [**Conditional DETR for Fast Training Convergence**](https://arxiv.org/pdf/2108.06152.pdf) (ICCV 2021). ([Note](ConditionalDETR.md))
+
 - [**Efficient DETR: Improving End-to-End Object Detector with Dense Prior**](https://arxiv.org/pdf/2104.01318.pdf) 
 
 - [**Deformable Detr: Deformable Transformers For End-to-end Object Detection**](https://arxiv.org/pdf/2010.04159.pdf) (ICLR 2021). ([Note](DeformableDETR.md))
