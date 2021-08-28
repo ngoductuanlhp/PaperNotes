@@ -54,3 +54,7 @@ Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**](https
 
 - [**End-to-end 3D Point Cloud Instance Segmentation without Detection**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.pdf) (CVPR 2020). ([Note](E2E_withoutdetection).md))
 
+### Few-shot
+
+- [**Few-shot 3D Point Cloud Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf) (CVPR 2021). ([Note](FS3D_semantic.md))
+
