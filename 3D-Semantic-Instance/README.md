@@ -28,6 +28,10 @@
 
 ### Proposal-free
 
+#### Superpoint:
+
+- [**Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks**](https://arxiv.org/pdf/2108.07478.pdf) (ICCV 2021). 
+
 #### Learning Dynamic Kernel
 
 - [**DyCo3D: Robust Instance Segmentation of 3D Point Clouds
@@ -52,7 +56,7 @@ Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**](https
 
 ### Sampling and assigning
 
-- [**End-to-end 3D Point Cloud Instance Segmentation without Detection**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.pdf) (CVPR 2020). ([Note](E2E_withoutdetection).md))
+- [**End-to-end 3D Point Cloud Instance Segmentation without Detection**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.pdf) (CVPR 2020). ([Note](E2E_withoutdetection.md))
 
 ### Few-shot
 
