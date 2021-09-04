@@ -17,3 +17,6 @@ Notes for papers (ML, DL, CV). Inspired by [Patrick Liu](https://github.com/patr
 
 ### Transformer in Vision tasks.
 - [Vision Transformer](Vision-Transformer)
+
+### Few-shot
+- [Few-shot](Few-shot)
