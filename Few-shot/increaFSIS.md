@@ -7,8 +7,8 @@ _Sep 2021_
 ### Overall
 
 
-
 ### Key ideas
+![](images/increaFSIS_general.png?raw=true)
 ![](images/increaFSIS_arch.png?raw=true)
 
 
